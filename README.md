@@ -1,6 +1,6 @@
 # JavaScript-Store
 ## Descripción
-Tutorial en el que aprenderemos Kotlin desde cero, explicando cada concepto desde su base. Utilizaremos Android Studio, el entorno de desarrollo de aplicaciones Android.
+Tutorial en el que aprenderemos JavaScript desde cero, explicando cada concepto desde su base. Utilizaremos Visual Studio Code, el entorno de desarrollo de aplicaciones webs.
 
 Este primer bloque básico consta de 10 clases:
 
